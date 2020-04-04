@@ -1,0 +1,9 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  cursor: crosshair;
+}
+#color{
+  width:120px;
+  height:20px;
+}
